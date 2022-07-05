@@ -1,0 +1,74 @@
+/* ========================================CONTACT========================================== */
+
+.contact .contact__content {
+    margin-top: 20px;
+    font-family: "Pp-Light";
+}
+
+.contact .contact__itemTiltle .white__heading2 {
+    padding: 30px 0 0;
+    text-align: left;
+}
+
+.contact .contact__itemTiltle .white__para {
+    padding: 0;
+}
+
+.contact .contact__itemTiltle {
+    margin-bottom: 20px;
+}
+
+.contact .contact__content .contact__item .white__para {
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.contact .contact__content .contact__item {
+    margin-bottom: 16px;
+}
+
+.contact .contact__content .contact__item input {
+    background: #0F0F0F;
+    padding: 10px 12px;
+    height: 58px;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid #FFFFFF;
+    color: #fff;
+}
+
+.contact .contact__content .contact__item textarea {
+    background: #0F0F0F;
+    padding: 10px 12px;
+    height: 58px;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid #FFFFFF;
+    color: #fff;
+}
+
+.contact .contact__content .contact__item .drag-area {
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    border: 2px dashed #fff;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact .contact__content .contact__item .drag-area button#upload {
+    color: #3185FF;
+    font-weight: bold;
+    background: #0F0F0F;
+    border: transparent;
+}
+
+.contact .contact__content .contact__item .drag-area button#upload:focus {
+    outline: none;
+}
+
+.contact .contact__content button.blue__btn__large {
+    width: 100%;
+}

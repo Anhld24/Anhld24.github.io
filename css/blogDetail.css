@@ -1,0 +1,71 @@
+/* ========================================BLOG========================================== */
+
+.blogDetail .blogDetail__content {
+    margin: 60px auto 0;
+}
+
+.blogDetail .blogDetail__content .blogTop {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.blogDetail .blogDetail__content .blogTop .blogTopLeft a {
+    text-decoration: none;
+    color: #fff;
+    transition: all 0.5s;
+}
+
+.blogDetail .blogDetail__content .blogTop .blogTopLeft a:hover {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.blogDetail .blogDetail__content .blogTop .blogTopRight {
+    font-size: 28px
+}
+
+.blogDetail .blogDetail__content .blogTop .blogIc {
+    padding: 0 5px;
+}
+
+.blogDetail .blogDetail__content .blogBottom .white__heading3 {
+    padding: 10px 0 0;
+    font-size: 24px;
+}
+
+.blogDetail .blogDetail__content .blogBottom .blog__datetime .col-3 {
+    flex: 0 0 auto;
+    width: 15%;
+}
+
+.blogDetail .blogDetail__content .blogDetail__item {
+    background: rgba(255, 255, 255, 0.12);
+    padding: 24px;
+    border-radius: 16px;
+    margin: 10px;
+    width: 350px;
+}
+
+.blogDetail .blogDetail__content .col-2 {
+    flex: 0 0 auto;
+    width: 4%;
+}
+
+.blogDetail .blogDetail__content .blogBottom .blogDetail-img {
+    padding: 40px 0;
+}
+
+.blogDetail .blogDetail__content .blogBottom .blogDetail-img img {
+    margin: 0;
+    width: 100%;
+    height: 636px;
+}
+
+.blogDetail .blogDetail__content .blogBottom .blogDetail__item {
+    text-decoration: none;
+}
+
+.blogDetail .blogDetail__content .blogBottom .line {
+    width: 100%;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.4);
+    margin: 32px 0;
+}

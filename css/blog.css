@@ -1,0 +1,60 @@
+/* ========================================BLOG========================================== */
+
+.blog .blog__content {
+    margin: 40px auto 0;
+}
+
+.blog .blog__content .blog__content__item {
+    display: flex;
+}
+
+.blog .blog__content .blog__info .white__heading3 {
+    padding: 10px 0 0;
+    font-size: 22px;
+}
+
+.blog .blog__content .blog__item {
+    background: rgba(255, 255, 255, 0.12);
+    padding: 24px;
+    border-radius: 16px;
+    margin: 10px;
+    width: 350px;
+}
+
+.blog .blog__content a {
+    text-decoration: none;
+}
+
+.blog .blog__content .col-3 {
+    flex: 0 0 auto;
+    width: 15%;
+}
+
+
+/* .blog .blog__content .blog__item .blog__datetime  img {
+    width: 22px;
+    height: 22px;
+} */
+
+
+/* .blog .blog__content .blog__item .blog__datetime span:first-of-type {
+    display: inline-block;
+    height: 4px;
+    width: 4px;
+    background: #FFFFFF;
+    border-radius: 100%;
+} */
+
+.blog .blog__content .blog__item .blog__datetime span.date {
+    font-family: "Pp-Light";
+    font-size: 14px;
+}
+
+.blog .blog__content .blog__item .blog__datetime p.gray__para {
+    margin: 0
+}
+
+.blog .btn {
+    width: 100%;
+    margin: 32px auto 0;
+}

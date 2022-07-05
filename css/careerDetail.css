@@ -1,0 +1,47 @@
+/* ========================================CAREER DETAIL========================================== */
+
+.careerDetail {
+    padding-top: 100px;
+}
+
+.careerDetail .detail__title span {
+    display: inline;
+    margin: 0 10px;
+}
+
+.careerDetail .detail__title a {
+    text-decoration: none;
+    color: #fff;
+    transition: all 0.5s;
+}
+
+.careerDetail .detail__title a:hover {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.careerDetail .detail__title span:last-of-type {
+    font-family: "Msr-Bold";
+}
+
+.careerDetail .detail__title i::before {
+    color: #fff;
+}
+
+.careerDetail .career__Detail__content ul {
+    margin-left: 30px;
+}
+
+.careerDetail .career__Detail__content .col-4 {
+    text-align: right;
+}
+
+.careerDetail .career__Detail__content .detail__right {
+    font-family: "Msr-Regular";
+    text-align: left;
+    color: #fff;
+    font-size: 16px;
+    background: rgba(255, 255, 255, 0.04);
+    padding: 24px;
+    border-radius: 8px;
+    margin-top: 30px;
+}
